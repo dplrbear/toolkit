@@ -13,7 +13,7 @@
 1. Type ipconfig /release, and then press ENTER.
 1. Type ipconfig /renew, and then press ENTER.
 
-Verify
+###### Verify
 
 To verify that address conflicts have been resolved:
 1. At the DHCP-enabled client computer, click Start, in Start Search type cmd, and then press ENTER.
